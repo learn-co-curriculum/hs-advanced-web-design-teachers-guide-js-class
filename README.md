@@ -80,3 +80,5 @@ Last week we learned about object literals - they are obviously useful but they 
 + Ultimately you want to create list objects - To Do Lists - that are connected to task objects - which are the individual tasks on the To Do List. 
 + Again - THIS IS A TOUGH LAB. If you are up for the challenge work together, take it one step at a time and don’t be afraid to ask for help!
 
+
+<a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-js-class' data-visibility='hidden'>View this lesson on Learn.co</a>
