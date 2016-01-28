@@ -81,4 +81,4 @@ Last week we learned about object literals - they are obviously useful but they 
 + Again - THIS IS A TOUGH LAB. If you are up for the challenge work together, take it one step at a time and don’t be afraid to ask for help!
 
 
-<a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-js-class' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-js-class' title='SWABATs'>SWABATs</a> on Learn.co and start learning to code for free.</p>
